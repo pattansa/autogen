@@ -1,0 +1,12 @@
+autogen-agentchat
+autogen-core
+autogen-ext
+dotenv
+openai
+tiktoken
+ipykernel
+autogen-ext[http-tool]
+autogen-ext[docker]
+langchain
+langchain-community
+streamlit
